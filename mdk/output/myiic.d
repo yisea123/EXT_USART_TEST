@@ -1,0 +1,16 @@
+.\output\myiic.o: ..\user\EEPROM\myiic.c
+.\output\myiic.o: ..\user\EEPROM\myiic.h
+.\output\myiic.o: ..\user\sys\sys.h
+.\output\myiic.o: ..\user\stm32f10x.h
+.\output\myiic.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+.\output\myiic.o: D:\MDK524\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\myiic.o: ..\user\system_stm32f10x.h
+.\output\myiic.o: ..\user\stm32f10x_conf.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\output\myiic.o: ..\user\stm32f10x.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\output\myiic.o: ..\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\output\myiic.o: ..\user\delay\delay.h
